@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment/>
+<entry key="kop">D:\KOPLAYER\KOPLAYER.exe</entry>
+<entry key="bnet">D:\Program Files (x86)\Blizzard App\Battle.net.exe</entry>
+<entry key="discord">C:\Users\sange\AppData\Local\Discord\Update.exe --processStart Discord.exe</entry>
+<entry key="naver">http://naver.com</entry>
+<entry key="d">d:\</entry>
+<entry key="test">D:\img</entry>
+<entry key="c">C:/</entry>
+</properties>
